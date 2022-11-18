@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Maksim and I am a developer with ***more than 2 years*** of enterprise experience creating enormous crazy projects 💪. 
+### Hi there 👋
+### My name is Maksim and I am a developer with ***more than 2 years*** of experience in the enterprise.</br>There were really enormous crazy projects 💪. 
 #### My stack:
 
 🔭 React (inc. Nextjs) </br>
